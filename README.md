@@ -1,4 +1,4 @@
-# Color generator app using react 
+# Color generator app using react [demo](https://jrn-color-generator.netlify.app/)
 
 ## Colors API - Values JS
 
